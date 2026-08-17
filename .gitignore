@@ -1,0 +1,7 @@
+# 日志与临时文件
+*.log
+.DS_Store
+Thumbs.db
+
+# 本地工作目录（dsh 配置/会话，不应入库）
+DSH-Workspace/
